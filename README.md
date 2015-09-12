@@ -22,7 +22,7 @@ pod "Woopra"
 
 ## Author
 
-Wills Ward, wills.e.ward@tcu.edu
+Wills Ward, wward@warddevelopment.com
 
 ## License
 
